@@ -1,16 +1,24 @@
-### Hi there 👋
+Olááá, sejam bem-vindos ao meu repositório! :sunglasses:
 
-<!--
-**MateusMiranda20/MateusMiranda20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Mateus Miranda atualmente sou um programador Front-end, no momento atual estou criando projetos com: 
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-Html" >
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt="Logo-Css">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-Javascript">
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando 
+
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-React">
+<br>
+<br>
+
+![Mateus Miranda GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMiranda20&show_icons=true&theme=radical)
+
+Contatos 
+<br><br>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-miranda-143374220/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maateus_miirandaa/)
+
