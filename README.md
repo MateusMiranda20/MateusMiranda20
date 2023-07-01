@@ -13,7 +13,7 @@ Eu sou o Mateus Miranda atualmente sou um programador Front-end, no momento atua
 
 Estudando 
 
-<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-React">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue" alt="logo-React">
 <br>
 <br>
 
