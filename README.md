@@ -4,9 +4,9 @@ Eu sou o Mateus Miranda atualmente sou um programador Front-end, no momento atua
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-Html" >
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white alt="Logo-Css">
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-Javascript">
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=black" alt="Logo-Html" >
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=black" alt="Logo-Css">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-Javascript">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green" alt="Logo-Node.js">
 
 <br>
