@@ -15,8 +15,10 @@
 
 <br>
 <br>
+
 <h3>Estudando</h3>
-<br>
+
+
 <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-typescript">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="logo-redux">
