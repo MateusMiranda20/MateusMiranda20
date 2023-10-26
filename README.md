@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-Javascript">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green" alt="Logo-Node.js">
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue" alt="logo-React">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo Github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="logo Github">
 </span>
 
 <br>
