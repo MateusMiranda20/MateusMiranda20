@@ -23,7 +23,10 @@ Estudando
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo postgreSQL">
 <br>
 <br>
-[![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMiranda20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mateus stats](https://github-readme-stats.vercel.app/api?username=MateusMiranda20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMiranda20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Contatos 
