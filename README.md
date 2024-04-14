@@ -1,6 +1,6 @@
 <h2>Olááá, prazer Mateus Miranda, sejam bem-vindos ao meu repositório! :sunglasses: </h2>
 
-<h3>Programador Front-end, habilidades que venho trabalhando: </h3>
+<h3>Desenvolvedor Front-end, habilidades que venho trabalhando: </h3>
 <br>
 <br>
 
