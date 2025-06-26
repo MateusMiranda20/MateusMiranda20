@@ -11,20 +11,14 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green" alt="Logo-Node.js">
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue" alt="logo-React">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="logo Github">
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="logo-redux">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo mongoDb">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo postgreSQL">
 </span>
 
 <br>
 <br>
 
-<h3>Estudando</h3>
-
-
-<br>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="logo-redux">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo mongoDb">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo postgreSQL">
-<br>
-<br>
 
 [![Mateus stats](https://github-readme-stats.vercel.app/api?username=MateusMiranda20)](https://github.com/anuraghazra/github-readme-stats)
 
