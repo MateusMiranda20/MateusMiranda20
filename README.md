@@ -1,5 +1,5 @@
 <h1>Olá, prazer Mateus Miranda! 👋</h1>
-<h4>💻 Front-end Developer | Desenvolvedor front end
+<h4>💻 Front-end Developer | Desenvolvedor front end <br>
 Atualmente: Desenvolvedor Front-end na Kronus Tecnologia desde Janeiro/2025
 Foco: Desenvolvimento de aplicações web modernas com React.js e TypeScript
 Paixão: Criar interfaces intuitivas e performáticas que impactem usuários reais</h4>
