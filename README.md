@@ -5,7 +5,6 @@ Foco: Desenvolvimento de aplicações web modernas com React.js e TypeScript
 Paixão: Criar interfaces intuitivas e performáticas que impactem usuários reais</h4>
 
 <h3>O que me move: Transformar ideias em código limpo e funcional, sempre buscando evolução contínua e boas práticas.</h3>
-<br>
 <h2>Stack Técnico </h2>
 <div align="center">
   <table>
@@ -32,17 +31,13 @@ Paixão: Criar interfaces intuitivas e performáticas que impactem usuários rea
     </tr>
   </table>
 </div>
-
 <br>
-
 <div align="center">
- 
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMiranda20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
-
 <H1>Vamos conversar</H1>
-
 <br>
 <div aling="center">
 
